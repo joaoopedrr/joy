@@ -1,0 +1,1 @@
+print("1. escolha qualquer exercicio anterior e crie funcoes e modulos =)")
